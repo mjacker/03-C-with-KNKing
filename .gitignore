@@ -1,1 +1,7 @@
 *.exe
+.dist
+.vs
+.vscode
+.gitignore
+.vscode/launch.json
+.code-workspace
